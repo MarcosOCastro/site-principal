@@ -191,8 +191,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 [![Email](https://img.shields.io/badge/📧-contato@marcosocastro.com.br-blue?style=for-the-badge)](mailto:contato@marcosocastro.com.br)
 [![GitHub](https://img.shields.io/badge/🔗-MarcosOCastro-24292e?style=for-the-badge&logo=github)](https://github.com/MarcosOCastro)
-[![LinkedIn](https://img.shields.io/badge/🔗-marcosocastro-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marcosocastro)
-[![Instagram](https://img.shields.io/badge/🔗-@marcosocastro-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcosocastro)
+[![LinkedIn](https://img.shields.io/badge/🔗-marcosocastro-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marcosvocastro)
+[![Instagram](https://img.shields.io/badge/🔗-@marcosocastro-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcosvocastro)
 
 </div>
 
